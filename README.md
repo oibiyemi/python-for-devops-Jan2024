@@ -7,6 +7,16 @@ From Zero repository for doing Devops work
 
  ### Colab Notebook
  ### GitHub Codespaces
+ Build out python scaffold:
+ * Makefile
+ * requirements.txt
+ * test_library.py
+ * python_library
+ * Dockerfile
+ * command-line tool
+ * Microservice
+
+ 
  ### AWS CloudShell
  ### AWS Cloud 9
 
