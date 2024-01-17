@@ -7,6 +7,7 @@ From Zero repository for doing Devops work
 
  ### Colab Notebook
  Here is a link to colab doc https://colab.research.google.com/drive/12Q0_NvK56I_NsJUNrzHtJFICbhWg4Rv1#scrollTo=pv1EZOkMjg2R
+ 
  ### GitHub Codespaces
  Build out python scaffold:
  * Makefile
@@ -17,6 +18,12 @@ From Zero repository for doing Devops work
  * command-line tool
  * Microservice
 
+ 1. Create a virtualenv : 'virtualenv ~/.venv'
+ 2. Edit my bashrc 
+    -  'vi ~/.bashrc' 
+    -  source ~/.venv/bin/activate  (Ctrl+G scrolls to the bottom & paste)
+    -  source ~/.bashrc  #command is used to apply the changes made to the .bashrc file immediately to the current shell session
+    -  'which python' to verify
  
  ### AWS CloudShell
  ### AWS Cloud 9
