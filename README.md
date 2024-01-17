@@ -11,6 +11,7 @@ From Zero repository for doing Devops work
  ### GitHub Codespaces
  Build out python scaffold:
  * Makefile
+   upgrades the pip package to the latest version
  * requirements.txt
  * test_library.py
  * python_library
